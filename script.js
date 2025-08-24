@@ -81,35 +81,35 @@ document.addEventListener('DOMContentLoaded', function() {
         2: {
             title: "เว็บไซต์ภูมิปัญญาพื้นบ้าน",
             description: "ออกแบบขนาดเว็บไซต์, มือถือ, แท็บเล็ต เกี่ยวกับภูมิปัญญาพื้นบ้าน มีเมนูต่างๆ สามารถเลื่อนภาพได้",
-            image: "../image/figma/uxui-2.png",
+            image: "./image/figma/uxui-2.png",
             tags: ["Figma", "UI Design"],
             link: "https://www.figma.com/proto/DQl3AnZEevXZZyn9aBH8aa/6602306%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%A2_-final?node-id=1-79&t=2G8fL1T4oJbkT4yk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A79"
         },
         3: {
             title: "เว็บไซต์บริษัทท่องเที่ยว",
             description: "ออกแบบ UI ทั้ง 3 ขนาด มีหลากหลายเมนู สามารถกดใช้งานได้จริง",
-            image: "../image/figma/uxui-3.png",
+            image: "./image/figma/uxui-3.png",
             tags: ["Figma", "UI Design", "Corporate"],
             link: "https://www.figma.com/proto/H9LiuZs7QO2pptGA1wlecT/6606082-GranMonte?node-id=1-2&t=mA6IN4a2BpnowKNn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"
         },
         4: {
             title: "แอปพลิเคชั่นเกมตารางธาตุ",
             description: "ออกแบบ UI แบบไม่ติดลิขสิทธิ์ เกี่ยวกับเกมให้ความรู้ตารางธาตุ",
-            image: "../image/figma/uxui-4-1.png",
+            image: "./image/figma/uxui-4-1.png",
             tags: ["Figma", "UI Design"],
             link: "https://www.figma.com/proto/Mo9SFJkrTEWs8nEyzHnExx/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8-Perio?node-id=424-50&p=f&t=LPsa4hbGM6pUgU4A-0&scaling=scale-down&content-scaling=fixed&page-id=424%3A50&starting-point-node-id=424%3A70"
         },
         5: {
             title: "แอปพลิเคชั่นเกมสุ่มกาชา",
             description: "ออกแบบ UI แอปพลิเคชั่น เกมสุ่มกาชา มีระบบล็อกอินและตรวจสอบ, หน้าเมนูหลักต่างๆ",
-            image: "../image/figma/uxui-5-1.png",
+            image: "./image/figma/uxui-5-1.png",
             tags: ["Figma", "UI Design"],
             link: "https://www.figma.com/proto/81PyAfbvPnBY7CGAtCntPJ/GACHA-POP?node-id=188-141&t=SjlejmjAHwwcATZ2-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=188%3A141"
         },
         6: {
             title: "แอปพลิเคชั่นเกม Cyber",
             description: "ออกแบบ UI แอปพลิเคชั่นเกม Cyber Safe",
-            image: "../image/figma/uxui-6-1.png",
+            image: "./image/figma/uxui-6-1.png",
             tags: ["Figma", "UI Design"],
             link: "https://www.figma.com/proto/tgNz3RLYOC17xuLDi7YOAq/Synergy-save?node-id=86-68&t=VeubWTNsFb6lv8gz-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
         },
